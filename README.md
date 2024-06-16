@@ -1,6 +1,4 @@
 **JAVA Programs**
 
--*Useful for practice*
-
-- **Various programs of JAVA **
+*Various programs of JAVA which is Useful for practice* 
 
